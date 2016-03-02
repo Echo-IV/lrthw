@@ -1,10 +1,15 @@
-my_name = 'Zed A. Shaw'
-my_age = 35 # not a lie in 2009
-my_height = 74 # inches
-my_weight = 180 # lbs
-my_eyes = 'Blue'
+my_name = 'Alexis Phuong'
+my_age = 24
+my_height = 71 # inches
+my_weight = 60 # kilo
+my_eyes = 'Brown'
 my_teeth = 'White'
 my_hair = 'Brown'
+
+inchesToCentimeters = my_height * 2.54
+puts " Je fais #{inchesToCentimeters}"
+
+poundsToKilograms =
 
 puts "Let's talk about #{my_name}."
 puts "He's #{my_height} inches tall."
